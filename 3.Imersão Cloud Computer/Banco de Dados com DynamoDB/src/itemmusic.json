@@ -1,0 +1,7 @@
+{
+  "Artist": {"S": "Coldplay"},
+  "SongTitle": {"S": "Trouble"},
+  "AlbumTitle": {"S": "Parachutes"},
+  "SongYear": {"S": "2000"}
+}
+
