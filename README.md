@@ -1,5 +1,5 @@
 # BootCamp Geração Tech Unimed-BH - Ciência de Dados
-Nesse repositório você encontrará alguns dos projetos realizados ao longo do bootcamp (09/2022 - 11/2022)
+Nesse repositório eu coloco alguns dos projetos realizados ao longo do bootcamp (09/2022 - 11/2022)
 
 ### 1.Python para Cientista de Dados
 - Análise de dados com Python e Pandas
