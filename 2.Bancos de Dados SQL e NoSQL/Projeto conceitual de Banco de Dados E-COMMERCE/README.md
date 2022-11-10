@@ -25,7 +25,7 @@ Contexto:
 * O pedido pode ser cancelado.
 
 ### Narrativa - Fornecedor & estoque:
-* ...
+* Os pedidos podem ter mais de um fornecedor e tabém pode estar em estoque.
 
 
 ## Refinamento:
