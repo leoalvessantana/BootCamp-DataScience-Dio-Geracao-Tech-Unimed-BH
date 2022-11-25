@@ -12,7 +12,7 @@ def plot_image(image):
 def plot_result(*args):
 "plota de acordo com o numero de args"
     number_images = len(args)
-    fig, axis = plt.subplots(nrows=1, ncols = number_images, figsize=(12, 4))
+    fing, axis = plt.subplots(nrows=1, ncols = number_images, figsize=(12, 4))
     names_lst = ['Image {}'.format(i) for i in range(1, number_images)]
     names_lst.append('Result')
     for ax, name, image in zip(axis, names_lst, args):
@@ -21,7 +21,6 @@ def plot_result(*args):
         ax.axis('off')
     fig.tight_layout()
     plt.show()
-
     
 def plot_histogram(image):
 "plota o histograma de 3 colunas da imagem"
