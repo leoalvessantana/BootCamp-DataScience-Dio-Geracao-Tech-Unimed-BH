@@ -15,6 +15,3 @@ Nesse repositório eu coloco alguns dos projetos realizados ao longo do bootcamp
 ### 3.Imersão Cloud Computer
 - Banco de Dados com DynamoDB
 - Explorando Dados Demográficos com Serviços de Big Data na AWS
-
-### 4.Machine Learning
-- Redes Neurais
